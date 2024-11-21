@@ -1,4 +1,4 @@
-# UnitedCarOS--Oniro4OpenHarmony-for-car
+# UnitedCarOS-Oniro4OpenHarmony-for-car
 
 UnitedCarOS est une interface embarquée pour véhicule, construite sur la base de Oniro (Eclipse Foundation). Ce projet vise à créer une plateforme automobile connectée, modulaire et évolutive, capable de fournir une expérience utilisateur moderne et intuitive.
 
